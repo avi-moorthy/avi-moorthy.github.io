@@ -30,7 +30,7 @@ author_profile: true
 **Blowin' in the Wind: The Impact of Extreme Weather on College Major Choice**
 
 **Do Students Benefit from an Extra Year of High School? A Study of Ontario's Removal of Grade 13**  
-*Top Undergraduate Thesis, Minnesota Economics Association 2014*
+*Top Undergraduate Thesis, Minnesota Economics Association, 2014*
 
 ## Other Publications
 **How Does Social Distancing Affect the Spread of Covid-19 in the United States?** (with Bhashkar Mazumder)  
