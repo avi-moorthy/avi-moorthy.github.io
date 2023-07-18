@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Candidate at Harvard University in Public Policy (Economics Track). My research focuses on labour economics, political economy, and economic history. I promise it's cool!  
+I'm a Ph.D. Candidate in Public Policy (Economics Track) at Harvard University. My research focuses on labour economics, political economy, and economic history. I promise it's cool!  
 
 At Harvard, I'm a James M. and Cathleen D. Stone Ph.D. Scholar in Inequality and Wealth Concentration. I'm also a Ph.D. affiliate of the Harvard Environmental Economics program (HEEP), the Centre for International Development (CID), and Evidence for Policy Design (EPoD).  
 
