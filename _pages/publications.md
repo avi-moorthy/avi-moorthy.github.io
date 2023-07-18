@@ -33,5 +33,5 @@ author_profile: true
 *Top Undergraduate Thesis, Minnesota Economics Association 2014*
 
 ## Other Publications
-**How Does Social Distancing Affect the Spread of Covid-19 in the United States?** (with Bhashkar Mazumder)
+**How Does Social Distancing Affect the Spread of Covid-19 in the United States?** (with Bhashkar Mazumder)  
 *Chicago Fed Letter, No 442, 2020*, retrievable <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2020/442">here</a>
