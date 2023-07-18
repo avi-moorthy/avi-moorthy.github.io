@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at Harvard University in Public Policy (Economics Track). My research focuses on labour economics, political economy, and economic history. I promise it's cool!
+I'm a Ph.D. Candidate at Harvard University in Public Policy (Economics Track). My research focuses on labour economics, political economy, and economic history. I promise it's cool!
