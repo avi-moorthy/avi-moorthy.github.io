@@ -20,7 +20,7 @@ author_profile: true
 *FEDS Working Paper*, retrievable <a href="https://www.federalreserve.gov/econres/feds/revisiting-the-effect-of-education-on-later-life-health.htm">here</a>
 
 ## Works in Progress
-**Paywalls** (with Desmond Ang and Ben Schneer)</p>
+**Paywalls** (with Desmond Ang and Ben Schneer)
 
 **Teaching Mental Health: Evaluating India's Happiness Curriculum** (with Kevin Carney)  
 *Data Collection in Progress*
