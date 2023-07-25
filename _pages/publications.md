@@ -19,13 +19,14 @@ author_profile: true
 **The Effect of Education on Later Life Health Revisited** (with Ted Figinski and Alicia Lloro)  
 *FEDS Working Paper*, retrievable <a href="https://www.federalreserve.gov/econres/feds/revisiting-the-effect-of-education-on-later-life-health.htm">here</a>
 
-## Works in Progress
+## Works in Progress -- Media
 **Paywalls** (with Desmond Ang and Ben Schneer)
 
+**The Mouthpiece of 14 Million People: The Role of the Black Press in Migration and Mobilization**
+
+## Works in Progress -- Education
 **Teaching Mental Health: Evaluating India's Happiness Curriculum** (with Kevin Carney)  
 *Data Collection in Progress*
-
-**The Mouthpiece of 14 Million People: The Role of the Black Press in Migration and Mobilization**
 
 **Blowin' in the Wind: The Impact of Extreme Weather on College Major Choice**
 
