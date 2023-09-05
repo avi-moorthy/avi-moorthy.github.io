@@ -22,16 +22,13 @@ author_profile: true
 ## Works in Progress -- Media
 **Paywalls** (with Desmond Ang and Ben Schneer)
 
-**The Mouthpiece of 14 Million People: The Role of the Black Press in Migration and Mobilization**
+**Black Newspapers and the Great Migration**
 
 ## Works in Progress -- Education
 **Teaching Mental Health: Evaluating India's Happiness Curriculum** (with Kevin Carney)  
 *Data Collection in Progress*
 
 **Blowin' in the Wind: The Impact of Extreme Weather on College Major Choice**
-
-**Do Students Benefit from an Extra Year of High School? A Study of Ontario's Removal of Grade 13**  
-*Top Undergraduate Thesis, Minnesota Economics Association, 2014*
 
 ## Other Publications
 **How Does Social Distancing Affect the Spread of Covid-19 in the United States?** (with Bhashkar Mazumder)  
