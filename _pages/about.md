@@ -14,6 +14,6 @@ At Harvard, I'm a James M. and Cathleen D. Stone Ph.D. Scholar in Inequality and
 
 Prior to Harvard, I worked as a Research Assistant on the Microeconomics Team at the Federal Reserve Bank of Chicago, and graduated from Carleton College in 2018 with a B.A. in Economics.  
 
-I'm originally from Toronto, Canada and am a fan of all things tennis, running, craft breweries, Seinfeld, and Toronto sports.   
+I'm from Toronto, Canada and am a fan of all things tennis, running, craft breweries, Seinfeld, and Toronto sports.   
 
 You can view my C.V. [here](https://avi-moorthy.github.io/files/Moorthy_CV.pdf), and please reach out at [amoorthy@g.harvard.edu](mailto:amoorthy@g.harvard.edu).
