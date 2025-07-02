@@ -19,4 +19,4 @@ I graduated from Carleton College in 2018 with a B.A. in Economics. Prior to Har
 
 I'm from Toronto, Canada and am a fan of all things tennis, running, craft breweries, Seinfeld, and Toronto sports.   
 
-I am available for interviews in the 2025–2026 job market. You can view my C.V. [here](https://avi-moorthy.github.io/files/Moorthy_CV.pdf). Please reach out at [amoorthy@g.harvard.edu](mailto:amoorthy@g.harvard.edu).
+I am available for interviews in the 2025-2026 job market. You can view my C.V. [here](https://avi-moorthy.github.io/files/Moorthy_CV.pdf). Please reach out at [amoorthy@g.harvard.edu](mailto:amoorthy@g.harvard.edu).
