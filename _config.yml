@@ -83,7 +83,7 @@ author:
   name             : "Avi Moorthy"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at Harvard University"
-  location         : "Cambridge, MA"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FyQ8FGcAAAAJ&hl=en"
@@ -114,8 +114,10 @@ author:
   weibo            :
   xing             :
   youtube          :
+  strava           :
+  untappd          :
+  goodreads        :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -181,7 +183,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  cv:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +229,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _cv
   - scope:
       path: ""
-      type: portfolio
+      type: cv
     values:
       layout: single
       author_profile: true
