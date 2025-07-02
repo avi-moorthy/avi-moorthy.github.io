@@ -13,7 +13,7 @@ seo:
 
 I'm a Ph.D. Candidate in Public Policy (Economics Track) at Harvard University. My research focuses on labour economics, political economy, and economic history. I promise it's cool!  
 
-At Harvard, I'm a Stone Scholar in Inequality and Wealth Concentration. I'm also an affiliate of the Harvard Environmental Economics Program (HEEP), Centre for International Development (CID), and Evidence for Policy Design (EPoD).  
+At Harvard, I'm a Stone Scholar in Inequality and Wealth Concentration. I'm also an affiliate of the Harvard Environmental Economics Program, Centre for International Development, and Evidence for Policy Design.  
 
 I graduated from Carleton College in 2018 with a B.A. in Economics. Prior to Harvard, I worked as a Research Assistant at the Federal Reserve Bank of Chicago. 
 
