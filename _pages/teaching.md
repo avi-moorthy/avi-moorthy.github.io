@@ -6,7 +6,7 @@ author_profile: true
 seo:
   title: "Teaching"
 ---
-#Teaching
+# Teaching
 **Race and the State: The Role of Public Policy in U.S. Racial Inequality (SUP 770)** 
 Course Assistant for Prof. Desmond Ang, Harvard Kennedy School, Fall 2023
 
