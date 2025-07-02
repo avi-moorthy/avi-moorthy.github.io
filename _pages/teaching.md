@@ -7,9 +7,7 @@ seo:
   title: "Teaching"
 ---
 
-# Teaching Experience
-
-I've served as a teaching assistant in economics and public policy courses at both the undergraduate and masters level.
+I've served as a teaching assistant for economics and public policy courses at the undergraduate and masters level.
 
 ---
 
