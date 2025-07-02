@@ -13,6 +13,8 @@ seo:
 
 ---
 
+<!-- spacer -->
+
 # Works in Progress
 **Paywalls** (with Desmond Ang, Stephen Pettigrew, and Ben Schneer)
 
@@ -22,6 +24,8 @@ seo:
 **Blowin' in the Wind: The Impact of Extreme Weather on College Major Choice and Green Innovation** (with Chloe Tanaka)
 
 ---
+
+<!-- spacer -->
 
 # Other Publications/Working Papers
 **The Effect of Education on Later Life Health Revisited** (with Ted Figinski and Alicia Lloro)  
