@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Avi Moorthy"
-favicon                  : "/assets/favicon_transparent.png"
 title_separator          : "-"
 name                     : &name "Avi Moorthy"
 description              : &description "personal description"
