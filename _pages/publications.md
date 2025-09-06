@@ -16,7 +16,7 @@ seo:
 <!-- spacer -->
 
 # Works in Progress
-**Paywalls** (with Desmond Ang, Stephen Pettigrew, and Ben Schneer)
+**Paywalls** (with Desmond Ang, Stephen Pettigrew, and Ben Schneer)  
 *Abstract*: Through the 2010s, the news media landscape shifted from an ad-supported to a subscription-based model. What are the effects of the transition? We examine the impact of local newspaper paywalls on news consumption, online browsing behavior and the implications for political and economic knowledge, voting, and community engagement. We assemble the most comprehensive database to date tracking the implementation of paywalls for the universe of daily newspapers in the US. We show that local newspapers skew right-leaning compared to other online news sources, and attract readers who are older, whiter, and higher income. We find a sharp drop in time spent reading local newspapers after paywalls are implemented. Users shift news consumption towards national news sites with more left-leaning ideological slants, soft news and entertainment media. These substitution patterns cascade into a host of downstream outcomes, including a leftward shift among local residents in voting behavior and decreased knowledge of local economic conditions and social activity.
 
 **Teaching Mental Health: Evaluating India's Happiness Curriculum** (with Kevin Carney)  
