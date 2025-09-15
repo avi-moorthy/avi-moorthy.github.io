@@ -8,7 +8,7 @@ seo:
 ---
 
 # Job Market Paper
-**_The Defender_ on the Move: Black Newspapers and the First Great Migration** [Paper](files/defender_moorthy.pdf){: .btn .btn--info .btn--small}  
+**_The Defender_ on the Move: Black Newspapers and the First Great Migration** [Paper](files/defender_moorthy.pdf){: style="background:#5bc0de; color:white; padding:0.15em 0.4em; border-radius:3px; font-size:90%;" }  
 *Abstract*: After 50 years of limited migration following emancipation, 1.5 million Black southerners made the journey north during the First Great Migration from 1915 to 1940. Over the same period, Black political organization in the South surged and racial violence fell. I examine whether information on northern life and jobs sparked Black migration and southern activism using quasi-random variation in exposure to the Chicago Defender, the most prominent northern Black newspaper. Classifying the coverage of thousands of southern newspapers, I show that information about the North was limited prior to the Chicago Defender's entry in the mid-1910s. To reach southern readers, the Chicago Defender partnered with Black railway porters working for the Illinois Central railroad. In cities along the railroad, I find that individuals who lived near a porter selling the Chicago Defender were 33% more likely to migrate north than similar individuals who did not. These individuals pulled relatives to migrate, consistent with information diffusion across social networks, and moved to cities that received more coverage in articles, ads, and job postings. Counties with access to the Chicago Defender were 1.5 times more likely to form an NAACP branch and experienced 1.4 times fewer lynchings.
 
 # Works in Progress
