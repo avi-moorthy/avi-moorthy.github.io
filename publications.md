@@ -18,7 +18,7 @@ seo:
 **Teaching Mental Health: Evaluating India's Happiness Curriculum** (with Kevin Carney)  
 *Data Collection Complete*
 
-**Blowin' in the Wind: The Impact of Extreme Weather on College Major Choice and Green Innovation** (with Chloe Tanaka)
+**Blowin' in the Wind: The Impact of Climate Disasters on College Majors and Innovation** (with Chloe Tanaka)
 
 # Other Publications/Working Papers
 **The Effect of Education on Later Life Health Revisited** (with Ted Figinski and Alicia Lloro)  
