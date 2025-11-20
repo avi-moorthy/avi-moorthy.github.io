@@ -17,7 +17,7 @@ At Harvard, I'm a Stone Ph.D. Scholar in Inequality and Wealth Concentration. I'
 
 I graduated from Carleton College in 2018 with a B.A. in Economics. Prior to Harvard, I worked as a Research Assistant at the Federal Reserve Bank of Chicago. 
 
-I'm from Toronto, Canada and am a fan of all things tennis, running, craft breweries, Seinfeld, and Toronto sports. I'm currently reading Brief Interviews with Hideous Men and am on season 2 of The Wire (no spoilers!).  
+I'm from Toronto, Canada and am a fan of all things tennis, running, craft breweries, Seinfeld, and Toronto sports. I'm currently reading Brief Interviews with Hideous Men and am on season 3 of The Wire (no spoilers!).  
 
 I am available for interviews in the 2025-2026 job market. You can view my C.V. [here](https://avi-moorthy.github.io/files/Moorthy_CV.pdf). 
 
