@@ -19,6 +19,6 @@ I graduated from Carleton College in 2018 with a B.A. in Economics. Prior to Har
 
 I'm from Toronto, Canada and am a fan of all things tennis, running, craft breweries, Seinfeld, and Toronto sports. I'm currently reading Brief Interviews with Hideous Men and am on season 3 of The Wire (no spoilers!).  
 
-I am available for interviews in the 2025-2026 job market and will be at the SEA from November 22-24. You can view my C.V. [here](https://avi-moorthy.github.io/files/Moorthy_CV.pdf). 
+I am available for interviews in the 2025-2026 job market. You can view my C.V. [here](https://avi-moorthy.github.io/files/Moorthy_CV.pdf). 
 
 Please reach out at [amoorthy@g.harvard.edu](mailto:amoorthy@g.harvard.edu).
